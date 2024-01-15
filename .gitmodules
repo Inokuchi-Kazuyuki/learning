@@ -1,0 +1,3 @@
+[submodule "SubModules/main-repository"]
+	path = SubModules/main-repository
+	url = git@github.com:Inokuchi-Kazuyuki/main-repository
